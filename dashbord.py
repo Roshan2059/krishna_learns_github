@@ -1,30 +1,3 @@
-# class Car:
-#     color = "yello"
-#
-#     @staticmethod
-#     def start():
-#         print("car start")
-#
-#     @staticmethod
-#     def stop():
-#         print("car stopped")
-#
-#
-# class Toyota(Car):
-#     def __init__(self, brand ):
-#         self.brand = brand
-#
-# class Fortuner(Toyota):
-#     def __init__(self,type):
-#         self.type = type
-#
-# car1 = Fortuner("desile")
-# car1.start()
-# car1.color
-
-
-
-
 ###multi level inheritance
 
 class A:
